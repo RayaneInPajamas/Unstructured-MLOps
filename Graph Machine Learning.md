@@ -18,8 +18,10 @@ application of machine learning on the graphs specifiacally for predictive and p
 ### Unsupervised GML Tasks
 - **Representation Learning** : Automatically generate features based on graph structure for downstream ML & EDA (exploratory data analysis)
 - <a href="https://neo4j.com/docs/graph-data-science/current/algorithms/community/"> **Clustering/Community detection** </a>: Community detection algorithms are used to evaluate how groups of nodes are clustered or partitioned, as well as their tendency to strengthen or break apart.
-- **Similarity**
-- **Centrality & Pathfinding**
+- **Similarity** : measuring similar pairs of nodes in a graph recommendation, entity resolution, and anomaly and fraud detection.
+- **Centrality & Pathfinding** : finds important or influential nodes in a graph
+
+
 
 
 # <a href="https://www.youtube.com/watch?v=GXhBEj1ZtE8">Graph Neural network</a>
